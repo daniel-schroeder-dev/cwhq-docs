@@ -20,7 +20,9 @@ edit_uri: edit/main/docs
 
 nav:
   - Home: index.md
-  - Python: python.md
+  - Python: 
+    - 'Python Language': python/python-language.md
+    - 'Wizardlib': python/wizardlib.md
 
 
 theme:
