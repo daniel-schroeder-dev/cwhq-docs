@@ -1,5 +1,11 @@
 # Wizardlib
 
+Here, you'll find the documentation for CodeWizardHQ's <em>Wizardlib</em> Python library. We use this library in the following courses:
+
+|Elementary              | Middle School
+|------------------------|--------------
+|Python Game Development |Introduction to Programming with Python
+
 <hr>
 
 ### add_image
@@ -22,6 +28,7 @@ Returns:
 Example usage:
 
 <hr>
+
 ```python
 taco_image = add_image("taco.png")
 ```
@@ -31,6 +38,11 @@ Example output:
 
 <hr>
 
-![Taco Image](/assets/taco.jpg)
+
+<figure markdown>
+![Taco Image](/assets/taco.jpg){ width="300" }
+<figcaption></figcaption>
+</figure>
+
 
 <hr>
