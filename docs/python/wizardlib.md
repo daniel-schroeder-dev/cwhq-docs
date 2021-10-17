@@ -40,7 +40,7 @@ Example output:
 
 
 <figure markdown>
-![Taco Image](/assets/taco.jpg){ width="300" }
+![Taco Image](https://github.com/daniel-schroeder-dev/cwhq-docs/blob/main/docs/assets/taco.jpg?raw=true){ width="300" }
 <figcaption></figcaption>
 </figure>
 
