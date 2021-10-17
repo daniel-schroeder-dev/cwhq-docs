@@ -27,7 +27,6 @@ for fruit in fruits:
 ```
 
 Example output:
-<hr>
 
 ```text
 apple
@@ -35,7 +34,39 @@ banana
 cherry
 ```
 
+You can also use a `for` statement to loop over the characters in a `str`:
 
+```python
+name = "Daniel"
 
+for letter in name:
+    print(letter)
+```
+
+Example output:
+
+```text
+D
+a
+n
+i
+e
+l
+```
+
+You can combine the `range()` function and the `for` statement to create a counter-controlled loop:
+
+```python
+for num in range(1, 4):
+    print(f"{num} potato")
+```
+
+Example output:
+
+```text
+1 potato
+2 potato
+3 potato
+```
 
 

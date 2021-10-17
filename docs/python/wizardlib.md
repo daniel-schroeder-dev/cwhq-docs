@@ -8,7 +8,7 @@ Here, you'll find the documentation for CodeWizardHQ's <em>Wizardlib</em> Python
 
 <hr>
 
-### add_image
+### add_image()
 
 ```python
 add_image(filename, size=None)
